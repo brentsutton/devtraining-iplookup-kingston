@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_rest_message_fn_parameters">
+    <sys_rest_message_fn_parameters action="INSERT_OR_UPDATE">
+        <name>range</name>
+        <rest_message_function display_value="GET Dividends">398165a937335300849bea4873990e79</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_parameters</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-08 07:18:21</sys_created_on>
+        <sys_id>0fb12de937335300849bea4873990e30</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>range</sys_name>
+        <sys_package display_value="IPLookup" source="x_8774_iplookup">aca9a66b37e39300849bea4873990e1a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">aca9a66b37e39300849bea4873990e1a</sys_scope>
+        <sys_update_name>sys_rest_message_fn_parameters_0fb12de937335300849bea4873990e30</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-08 07:19:03</sys_updated_on>
+        <type>string</type>
+        <value>1y</value>
+    </sys_rest_message_fn_parameters>
+</record_update>
